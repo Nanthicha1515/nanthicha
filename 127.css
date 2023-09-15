@@ -1,0 +1,38 @@
+body{
+  background-color:#fbd5d7;
+}
+     
+    .one{
+    background-color: #f97ab6;
+    padding: 1em;
+    text-align: center;
+
+    }
+
+    .menu{
+        background-color: white;
+        padding: 1em;
+        display: flex; 
+        list-style: none;
+        text-decoration: none;
+    }
+
+    .menu li{
+        margin: auto;
+    }
+
+    .menu li a{
+        color: black;
+    
+    }
+    .three{
+        text-align:center;
+    }
+
+    .four{
+        text-align:left;
+    }
+
+    .five{
+        font-size: 20px;
+    }
